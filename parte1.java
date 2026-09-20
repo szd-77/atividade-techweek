@@ -1,0 +1,4 @@
+•  Título da atividade: Atividade da Tech Week
+•  Data e horário: 15/09/2026 20:30 •  Palestrante ou responsável: Maria Couto, Security Leader e consultora de cybersegurança na  IT.eam. 
+•  Breve descrição: Palestra mais focada nos fundamentos de cibersegurança, detalhando os processos da área, as qualificações necessárias, o mercado de certificações e os exigentes pré-requisitos para crescer e evoluir no setor.
+•  Principal aprendizado: Foi extremamente completa e rica as orientações para quem está iniciando na área: por onde começar os estudos, quais materiais buscar e como planejar a carreira. Foi tratada a importância de construir uma base sólida em redes e sistemas antes de buscar certificações pagas de peso, como a CompTIA Security+ ou CEH, além de destacar plataformas práticas para treinar, como TryHackMe, Hack The Box e outros para segurança, além da compreensão técnica de como os sistemas de proteção funcionam na prática.
